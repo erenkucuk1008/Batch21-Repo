@@ -1,8 +1,0 @@
-more great stuff here
-more stuff has been added
-we are cloning
-remote to local
-making some changes
-committing the changes
-pushing it back to
-remote repository
