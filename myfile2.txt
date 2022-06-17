@@ -1,1 +1,2 @@
 I am writing something in GitHub.com
+added more stuff in local repository
